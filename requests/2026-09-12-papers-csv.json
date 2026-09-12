@@ -1,0 +1,14 @@
+{
+  "request_id": "csv-2026-09-12-001",
+  "from": "eda-nikos",
+  "to": "research-irene",
+  "kind": "data-request",
+  "status": "fulfilled",
+  "requested_path": "research-irene/data/papers.csv",
+  "purpose": "Run the Nikos paper-index citation study",
+  "requested_at": "2026-09-12T07:02:10Z",
+  "fulfilled_at": "2026-09-12T07:02:10Z",
+  "source_sha256": "b93157a5ece20065037c542b88aa9f3bb384493189e6b86e1f9d4cb6c70807df",
+  "consuming_report": "eda-nikos/reports/sample-study.json",
+  "copy_into_eda": false
+}

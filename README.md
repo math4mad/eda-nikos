@@ -9,6 +9,8 @@ studies in a Quarto-style notebook workflow.
 - `figures/` contains rendered exhibits that can be regenerated.
 - `reports/` contains short interpretations with input digests.
 - Do not copy source data here; reference the Research record instead.
+- Requests for source data are recorded in `requests/`; fulfilled requests name
+	the source path and SHA-256 digest.
 
 ## First run
 
