@@ -1,0 +1,16 @@
+{
+  "input": "research-irene/data/papers.csv",
+  "input_sha256": "b93157a5ece20065037c542b88aa9f3bb384493189e6b86e1f9d4cb6c70807df",
+  "rows": 5,
+  "citations_by_year": {
+    "2021": 42,
+    "2022": 58,
+    "2023": 56,
+    "2024": 18
+  },
+  "papers_by_topic": {
+    "distributed-systems": 2,
+    "reproducible-research": 1,
+    "visual-analytics": 2
+  }
+}
